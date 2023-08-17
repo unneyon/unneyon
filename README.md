@@ -7,5 +7,5 @@ ____
 ____
 ####  :us: EN
 ##### :v: Hi, i'm Matvey ^^
-##### :snake: I write on Python (I don't know this very well, but I'm studying this)
+##### :snake: I write on Python (I don't know it's very well, but I'm learn it's)
 ##### :sparkles: My bio: [@wpodgbio](https://wpodgbio.t.me)
